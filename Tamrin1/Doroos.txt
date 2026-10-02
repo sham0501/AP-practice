@@ -1,0 +1,14 @@
+220161	riazi2	poornaki	0	100	4	3	24	09:00	shanbeh-doshanbe	10:30-12:30	true	riazi
+228151	ap	boomeri	0	100	4	3	26	15:30	shanbeh-doshanbe	13:00-15:00	true	riazi
+228251	gosaste	rezaei	0	80	3	3	30	09:00	shanbeh-doshanbe	10:30-12:30	true	riazi
+221421	mabaniRiazi	bahrestaghi	0	70	4	3	22	09:00	yekshanbe-seshanbe	10:30-12:30	true	riazi
+311191	adabiat	shahnaz	0	56	3	3	30	13:30	yekshanbe-seshanbe	16:30-18:00	false	zabanha
+311192	adabiat	kamalinahad	0	50	3	3	30	13:30	yekshanbe-seshanbe	16:30-18:00	false	zabanha
+311231	zaban	salehi	0	25	3	3	22	13:30	yekshanbe-seshanbe	10:30-12:00	false	zabanha
+311232	zaban	soltani	0	25	3	3	22	13:30	shanbeh-doshanbe	13:30-15:00	false	zabanha
+240121	fizik2	abolhasani	0	40	3	3	31	09:00	shanbeh-doshanbe	10:30-12:00	true	fizik
+240122	fizik2	memarzade	0	40	3	3	31	09:00	shanbeh-doshanbe	09:00-10:30	true	fizik
+240123	fizik2	langari	0	40	3	3	31	09:00	yekshanbe-seshanbe	09:00-10:30	true	fizik
+374451	andishe1	shirvani	0	50	2	4	2	13:30	seshanbe	17:00-19:00	false	maaref
+374891	tafsirQuran	shobeir	0	50	2	3	26	13:30	charshanbe	08:00-10:00	false	maaref
+376221	tarikhEmamat	gerami	0	46	2	4	3	13:30	shanbeh	15:00-17:00	false	maaref
